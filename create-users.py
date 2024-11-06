@@ -1,3 +1,9 @@
+#### Fue Vang
+#### Add User Pythong Script
+#### Program Creation Date: 11/5/2024
+#### Program Last Updated Date: 11/6/2024
+
+
 #!/usr/bin/python3
 
 # Importing modules for various tasks:
